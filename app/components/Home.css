@@ -1,0 +1,16 @@
+.editor {
+  width: 100%;
+  height: 100%;
+  color: #72cc8a;
+  background-color: #011133;
+  outline: none;
+  border: none;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 15px;
+}
+
+.container {
+  position: relative;
+  height: 100%;
+}
